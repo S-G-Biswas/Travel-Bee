@@ -3,13 +3,26 @@
 At TravelHub, we believe in turning your travel dreams into reality. Whether you're an adventure seeker, a luxury traveler, or someone looking for a quick getaway, we've got you covered. Our platform is designed to simplify the travel booking process, offering a one-stop solution for flights, hotels, and exclusive travel packages.
 Preview the live template here: [TravelBee Live Demo](https://travel-bee-b66ab7.netlify.app/)
 
-## Table of Contents
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Screenshots](#Screenshots)
+## Project Type
+ #### Front-End
 
+## Deployed App
+#### Frontend: https://gem-garden-jewellery.vercel.app/
+
+## Directory Structure
+
+### Travel-Bee/
+    - index.html
+    - about.html
+    - services.html
+    - login.html
+    - register.html
+    - admin.js
+    - admin.html
+    - api.rest
+
+## Video walkthrough of the project
+link: 
 
 ## Features
 
@@ -18,39 +31,13 @@ Preview the live template here: [TravelBee Live Demo](https://travel-bee-b66ab7.
 - **Services**: Explore and choose from a variety of travel packages.
 - **About**: Learn more about the TravelBee team and mission.
 
-## Getting Started
+## Design decision or assumption
+We are a team of 5, planned and developed this user interactive website in the span of 5 days. 
+for design we followed the same theme over all the pages and sections
 
-### Prerequisites
-- A modern web browser
-- A text editor (e.g., VS Code, Sublime Text)
-- Basic knowledge of HTML,CSS,SASS and JAVA SCRIPT
 
-  ## Technologies Used
-<ul>
-<li>HTML5</li>
-<li>CSS</li>
-<li>JavaScript</li>
-<li>SASS</li>  
-</ul>
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/TravelBee.git
-   cd TravelBee
-2. Unzip the file if you've downloaded  it as a ZIP.
-3. Open the folder in your text editor.
-4. Use a SASS compiler to compile the `.scss` files to `.css` or edit the CSS directly.
-5. Open the `index.html` file in your web browser to view the template.
-
-   <br>
-
-#PROJECT LOGO
-<br>
-
-![clear logo-crop](https://github.com/heyyrahul/vivid-roll-405/assets/79692865/d3735248-d34a-4d84-b887-72fb8dba6a55)
+## Usage
+Visit the website- https://travelbe.netlify.app/
 
 ## Screenshots
 
@@ -71,8 +58,13 @@ Preview the live template here: [TravelBee Live Demo](https://travel-bee-b66ab7.
 ![about](https://github.com/heyyrahul/vivid-roll-405/assets/79692865/05d0b2c4-32f9-4aef-a73d-97f81cb60301)
 
 
-## Contributors
-1. <a href="https://github.com/underiya" target="_blank">Deepak Underiya</a> 
-2. <a href="https://github.com/S-G-Biswas" target="_blank">Shyamgopal Biswas</a>  
-3. <a href="https://github.com/parveenheena" target="_blank"> Heena Parveen</a>
-4. <a href="https://github.com/heyyrahul" target="_blank">Rahul Kumar</a> 
+## Credentials
+ email:
+ password:
+ 
+## Technology Stack
+- JavaScript
+- HTML5
+- CSS3
+- Chakra-Ui
+- REST API
